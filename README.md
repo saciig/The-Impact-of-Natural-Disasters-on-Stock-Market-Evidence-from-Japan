@@ -41,5 +41,4 @@ The aim of the project is to evaluate whether natural disasters influence stock 
 .
 ├── scripts/
 ├── data/
-├── outputs/
 └── README.md
